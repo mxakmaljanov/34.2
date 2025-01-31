@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrapper {
+    max-width: 1300px;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    align-items: flex-start;
+    gap: 10px;
+}
+/* 
+.card {
+    width: 300px; 
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin-bottom: */
